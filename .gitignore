@@ -1,0 +1,15 @@
+# 忽略所有 zip 文件
+*.zip
+
+# 忽略所有 Python 编译文件
+__pycache__/
+*.pyc
+
+# 忽略日志和缓存
+*.log
+.cache/
+checkpoint/
+
+# 忽略数据集文件夹
+yaogan/
+
