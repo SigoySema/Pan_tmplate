@@ -1,0 +1,112 @@
+Train dataset has 80 images and 20 batches.
+Val dataset has 80 images and 20 batches.
+Model parameters: 349444
+Initial Training Epoch 1: Loss=0.0100
+Initial Training Epoch 2: Loss=0.0026
+Initial Training Epoch 3: Loss=0.0017
+Initial Training Epoch 4: Loss=0.0016
+Initial Training Epoch 5: Loss=0.0016
+Val Epoch 5: PSNR=33.7435, SSIM=0.847369,QNR=0.8044, DS:0.1398,D_L:0.0662
+Initial Training Epoch 6: Loss=0.0016
+Initial Training Epoch 7: Loss=0.0015
+Initial Training Epoch 8: Loss=0.0015
+Initial Training Epoch 9: Loss=0.0015
+Initial Training Epoch 10: Loss=0.0015
+Val Epoch 10: PSNR=33.8665, SSIM=0.852945,QNR=0.8070, DS:0.1384,D_L:0.0647
+Initial Training Epoch 11: Loss=0.0015
+Initial Training Epoch 12: Loss=0.0015
+Initial Training Epoch 13: Loss=0.0015
+Initial Training Epoch 14: Loss=0.0015
+Initial Training Epoch 15: Loss=0.0015
+Val Epoch 15: PSNR=33.8932, SSIM=0.854491,QNR=0.8072, DS:0.1382,D_L:0.0646
+Initial Training Epoch 16: Loss=0.0015
+Initial Training Epoch 17: Loss=0.0015
+Initial Training Epoch 18: Loss=0.0015
+Initial Training Epoch 19: Loss=0.0015
+Initial Training Epoch 20: Loss=0.0015
+Val Epoch 20: PSNR=33.8840, SSIM=0.853895,QNR=0.8066, DS:0.1384,D_L:0.0650
+Initial Training Epoch 21: Loss=0.0015
+Initial Training Epoch 22: Loss=0.0015
+Initial Training Epoch 23: Loss=0.0015
+Initial Training Epoch 24: Loss=0.0015
+Initial Training Epoch 25: Loss=0.0015
+Val Epoch 25: PSNR=33.9194, SSIM=0.855453,QNR=0.8078, DS:0.1378,D_L:0.0643
+Initial Training Epoch 26: Loss=0.0015
+Initial Training Epoch 27: Loss=0.0015
+Initial Training Epoch 28: Loss=0.0015
+Initial Training Epoch 29: Loss=0.0015
+Initial Training Epoch 30: Loss=0.0015
+Val Epoch 30: PSNR=33.9203, SSIM=0.855417,QNR=0.8084, DS:0.1375,D_L:0.0640
+Initial Training Epoch 31: Loss=0.0015
+Initial Training Epoch 32: Loss=0.0015
+Initial Training Epoch 33: Loss=0.0015
+Initial Training Epoch 34: Loss=0.0015
+Initial Training Epoch 35: Loss=0.0015
+Val Epoch 35: PSNR=33.9294, SSIM=0.855811,QNR=0.8082, DS:0.1374,D_L:0.0643
+Initial Training Epoch 36: Loss=0.0015
+Initial Training Epoch 37: Loss=0.0015
+Initial Training Epoch 38: Loss=0.0015
+Initial Training Epoch 39: Loss=0.0015
+Initial Training Epoch 40: Loss=0.0015
+Val Epoch 40: PSNR=33.9305, SSIM=0.855812,QNR=0.8083, DS:0.1373,D_L:0.0642
+Initial Training Epoch 41: Loss=0.0015
+Initial Training Epoch 42: Loss=0.0015
+Initial Training Epoch 43: Loss=0.0015
+Initial Training Epoch 44: Loss=0.0015
+Initial Training Epoch 45: Loss=0.0015
+Val Epoch 45: PSNR=33.9342, SSIM=0.855959,QNR=0.8080, DS:0.1373,D_L:0.0646
+Initial Training Epoch 46: Loss=0.0015
+Initial Training Epoch 47: Loss=0.0015
+Initial Training Epoch 48: Loss=0.0015
+Initial Training Epoch 49: Loss=0.0015
+Initial Training Epoch 50: Loss=0.0015
+Val Epoch 50: PSNR=33.9318, SSIM=0.855771,QNR=0.8080, DS:0.1374,D_L:0.0645
+Initial Training Epoch 51: Loss=0.0015
+Initial Training Epoch 52: Loss=0.0015
+Initial Training Epoch 53: Loss=0.0015
+Initial Training Epoch 54: Loss=0.0015
+Initial Training Epoch 55: Loss=0.0015
+Val Epoch 55: PSNR=33.9337, SSIM=0.856133,QNR=0.8083, DS:0.1371,D_L:0.0644
+Initial Training Epoch 56: Loss=0.0015
+Initial Training Epoch 57: Loss=0.0015
+Initial Training Epoch 58: Loss=0.0015
+Initial Training Epoch 59: Loss=0.0015
+Initial Training Epoch 60: Loss=0.0015
+Val Epoch 60: PSNR=33.9394, SSIM=0.856266,QNR=0.8079, DS:0.1372,D_L:0.0649
+Initial Training Epoch 61: Loss=0.0015
+Initial Training Epoch 62: Loss=0.0015
+Initial Training Epoch 63: Loss=0.0015
+Initial Training Epoch 64: Loss=0.0015
+Initial Training Epoch 65: Loss=0.0015
+Val Epoch 65: PSNR=33.9326, SSIM=0.856009,QNR=0.8082, DS:0.1373,D_L:0.0644
+Initial Training Epoch 66: Loss=0.0015
+Initial Training Epoch 67: Loss=0.0015
+Initial Training Epoch 68: Loss=0.0015
+Initial Training Epoch 69: Loss=0.0015
+Initial Training Epoch 70: Loss=0.0015
+Val Epoch 70: PSNR=33.9372, SSIM=0.856078,QNR=0.8082, DS:0.1372,D_L:0.0644
+Initial Training Epoch 71: Loss=0.0015
+Initial Training Epoch 72: Loss=0.0015
+Initial Training Epoch 73: Loss=0.0015
+Initial Training Epoch 74: Loss=0.0015
+Initial Training Epoch 75: Loss=0.0015
+Val Epoch 75: PSNR=33.9346, SSIM=0.856227,QNR=0.8076, DS:0.1374,D_L:0.0650
+Initial Training Epoch 76: Loss=0.0015
+Initial Training Epoch 77: Loss=0.0015
+Initial Training Epoch 78: Loss=0.0015
+Initial Training Epoch 79: Loss=0.0015
+Initial Training Epoch 80: Loss=0.0015
+Val Epoch 80: PSNR=33.9346, SSIM=0.856162,QNR=0.8082, DS:0.1370,D_L:0.0647
+Initial Training Epoch 81: Loss=0.0015
+Initial Training Epoch 82: Loss=0.0015
+Initial Training Epoch 83: Loss=0.0015
+Initial Training Epoch 84: Loss=0.0015
+Initial Training Epoch 85: Loss=0.0015
+Val Epoch 85: PSNR=33.9389, SSIM=0.856211,QNR=0.8085, DS:0.1371,D_L:0.0643
+Initial Training Epoch 86: Loss=0.0015
+Initial Training Epoch 87: Loss=0.0015
+Initial Training Epoch 88: Loss=0.0015
+Initial Training Epoch 89: Loss=0.0015
+Initial Training Epoch 90: Loss=0.0015
+Val Epoch 90: PSNR=33.9425, SSIM=0.856357,QNR=0.8081, DS:0.1370,D_L:0.0647
+Training done.

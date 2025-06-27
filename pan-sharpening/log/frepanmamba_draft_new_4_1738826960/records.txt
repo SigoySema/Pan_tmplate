@@ -1,0 +1,6 @@
+Train dataset has 80 images and 20 batches.
+Val dataset has 80 images and 20 batches.
+Model parameters: 349828
+Initial Training Epoch 1: Loss=0.0083
+Initial Training Epoch 2: Loss=0.0034
+Training done.

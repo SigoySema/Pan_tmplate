@@ -1,0 +1,14 @@
+Net(
+  (head): ConvBlock(
+    (act): ReLU(inplace=True)
+    (conv): Conv2d(7, 48, kernel_size=(9, 9), stride=(1, 1), padding=(4, 4))
+  )
+  (body): ConvBlock(
+    (act): ReLU(inplace=True)
+    (conv): Conv2d(48, 32, kernel_size=(5, 5), stride=(1, 1), padding=(2, 2))
+  )
+  (output_conv): ConvBlock(
+    (act): ReLU(inplace=True)
+    (conv): Conv2d(32, 4, kernel_size=(5, 5), stride=(1, 1), padding=(2, 2))
+  )
+)
